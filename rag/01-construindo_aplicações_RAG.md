@@ -29,3 +29,4 @@ Conversão de texto em **arrays numéricos que representam significado semântic
 O **banco vetorial** (ex: Qdrant, ChromaDB, PGVector) é especializado em armazenar e pesquisar esses vetores de forma eficiente.
 
 ---
+https://github.com/odanieldcs/rag-api
